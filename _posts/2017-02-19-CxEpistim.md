@@ -20,7 +20,7 @@ skin entry point는 target point보다 2-3개 distal verterbral segmental level�
 
 따라서 entry point와 target point의 vertebral level을 일치시킬 경우 매우 용이하게  catheter를   cervical foramen으로 advance 시킬 수 있는 장점이 있다.
 
-반면 [Cervical and High Thoracic Ligamentum Flavum Frequently Fails to Fuse in the Midline](http://journals.lww.com/surveyanesthesiology/Citation/2004/06000/Cervical_and_High_Thoracic_Ligamentum_Flavum.37.aspx) 에 근거한다면, proximal level에서 skin entry  point 가 작성함으로 인한 accidental epidural puncture  증가 가능성을 배제할 수 없다.     
+반면 [Cervical and High Thoracic Ligamentum Flavum Frequently Fails to Fuse in the Midline](http://journals.lww.com/surveyanesthesiology/Citation/2004/06000/Cervical_and_High_Thoracic_Ligamentum_Flavum.37.aspx) 에 근거한다면, proximal level에서 skin entry  point 를 설정함으로 인한 accidental epidural puncture  증가 가능성을 배제할 수 없다.     
 
 
 
