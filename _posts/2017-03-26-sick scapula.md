@@ -75,12 +75,14 @@ Scapular dyskinesis는 shoulder movement중 발생한다.
 #### Rotational axis의 변화 ####
 견관절 내회전 (internal rotation)의 rotational axis의 변화와  이로 인한 external rotation의 증가는 SLAP lesion (Superior Labrum Anterior Posterior) 이 발생할 수 있는 기회가 된다.     
 
-#### Scapular winging ####
+#### Scapular winging ####  
+
 견갑골을 rib cage에 고정시키는 근육의 약화로 인하여 scapular winging이 발생한다. 이 경우 weak muscle 은 middle & lower trapezius,  serratus anterior 이다.    
 이러한 weak muscle외에, 견갑골을 rib cage에서 잡아당겨 떼어놓는 tight muscle이 있다. 이러한 역할을 하는 가장 주된 근육은 pectoralis minor이다.   
 Tight한 소흉근은 견갑골을 위로 당겨 결과적을 견갑골의 inferior-medial border winging을 유발한다.     
 
-#### 어깨관절 회전축의 변화 ####
+#### 어깨관절 회전축의 변화 ####  
+
 scapular winging으로 인한 견갑골의 위치변화는 어깨관절 회전축의 변화을 유발한다.   결과적으로  early pinching of the humerus against the top of the scapula이 발생한다.     
 견관절 굴곡동작(raising your arms straight up in front of you)에서 이러한  early pinching이 가장 잘 관찰된다.   어깨 통증이 있을 경우 흔히  impingement syndrome이라한다.  
 벽에 기대어 서서 날개뼈를 뒤로 밀은 상태에서 견관절 굴곡을 하면 통증이 유발될 때 까지의 운동범위가 증가한다. 이는 날개뼈를 rib cage에  눌러줌으로써 날개뼈가 적절한 위치를 회복하게되어 보다 정상적 회전축이 유발되어 정상적 ROM이 돌아오기 때문이다.      
@@ -93,7 +95,8 @@ SICK Scapula에서는 inferior medial tip은 건강한 어깨에서 처럼 움�
 
 ### S.I.C.K  Scapula에 대한 접근 : muscle imbalance 측면에서. .  ###   
 
-#### Tonic and Phasic Muscle Systems ####
+#### Tonic and Phasic Muscle Systems ####  
+
 기능적으로 근육은  “tonic” 혹은  “phasic”으로 구분된다.  
 Tonic system은  “flexors” 근육으로 구성되며,  반복적이고 rhythmic한 운동에 관여한다.     
 Phasic system 은 “extensors” 근육으로 구성되며  extensor synergies로 나타난다.   
@@ -110,7 +113,8 @@ Tightness 경향이 있는 근육은  불안정 역치가 낮고 쉽게 활성�
 상지에서 관찰되는 muscle imbalance pattern을 upper crossed syndrome (UCS,  cervical crossed syndrome)이라 한다  
 UCS은 upper trapezius, levator, sternocleidomastoid, 그리고 pectoralis muscles의 fascilitation을 특징으로 한다. 반면에 deep cervical flexors, lower trapezius, 그리고 serratus anterior은 inhibition된다.   
 
- ###어깨통증, Target Point는?####    
+###어깨통증, Target Point는?####    
+  
 서로 다른 곳에서 시작하였지만 S.I.C.K Scapula 와 Janda가 소개하는 upper crossed syndrome은 마치나  쌍둥이 처럼 생각됩니다.    
 한쪽의 scapular winging 은 다른 쪽의 muscle imbalance에 상응하고, scapular dyskinesis는 Janda가 소개하는 abnormal movement pattern에 상응합니다.     
 당연히 이를 임상에 적용하려면 target point 를 찾아야 겠지요.   그리고 그 target  point에 최적의 치료  modality 를 적용해야겠습니다.
