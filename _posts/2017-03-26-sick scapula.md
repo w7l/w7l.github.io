@@ -3,7 +3,7 @@
 
 ---
 layout: post  
-title: sick scapula  
+title: S.I.C.K Scapula  
 ---  
 
 ### 어깨 통증에 대한 기능적 접근의 필요성 ###    
