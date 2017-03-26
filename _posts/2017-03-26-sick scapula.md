@@ -55,7 +55,8 @@ S.I.C.K  Scapula는 다음의 네가지로 정의된다.
 * coracoid tenderness  
 * scapular dyskinesis      
 
-#### Scapular dyskinesis (S.I.C.K Scapula syndrome) ####
+#### Scapular dyskinesis (S.I.C.K Scapula syndrome)####  
+
 Scapular dyskinesis는 shoulder movement중 발생한다.  
 즉 운동 중 정상적 위치를 유지해야할 견갑골에 발생하는 위치의 변화 및 편이를 이미한다.   
 대부분의 사람에서 어깨의 반복사용에 의하여 견갑골은 비정상적 방법으로 움직이게 되어 통증이 유발된다.   
@@ -81,7 +82,7 @@ Scapular dyskinesis는 shoulder movement중 발생한다.
 이러한 weak muscle외에, 견갑골을 rib cage에서 잡아당겨 떼어놓는 tight muscle이 있다. 이러한 역할을 하는 가장 주된 근육은 pectoralis minor이다.   
 Tight한 소흉근은 견갑골을 위로 당겨 결과적을 견갑골의 inferior-medial border winging을 유발한다.     
 
-#### 어깨관절 회전축의 변화 ####  
+####어깨관절 회전축의 변화 ####
 
 scapular winging으로 인한 견갑골의 위치변화는 어깨관절 회전축의 변화을 유발한다.   결과적으로  early pinching of the humerus against the top of the scapula이 발생한다.     
 견관절 굴곡동작(raising your arms straight up in front of you)에서 이러한  early pinching이 가장 잘 관찰된다.   어깨 통증이 있을 경우 흔히  impingement syndrome이라한다.  
@@ -114,7 +115,7 @@ Tightness 경향이 있는 근육은  불안정 역치가 낮고 쉽게 활성�
 상지에서 관찰되는 muscle imbalance pattern을 upper crossed syndrome (UCS,  cervical crossed syndrome)이라 한다  
 UCS은 upper trapezius, levator, sternocleidomastoid, 그리고 pectoralis muscles의 fascilitation을 특징으로 한다. 반면에 deep cervical flexors, lower trapezius, 그리고 serratus anterior은 inhibition된다.   
 
-### 어깨통증, Target Point는? ###   
+### 어깨통증, Target Point는? ###
 
 서로 다른 곳에서 시작하였지만 S.I.C.K Scapula 와 Janda가 소개하는 upper crossed syndrome은 마치나  쌍둥이 처럼 생각됩니다.    
 한쪽의 scapular winging 은 다른 쪽의 muscle imbalance에 상응하고, scapular dyskinesis는 Janda가 소개하는 abnormal movement pattern에 상응합니다.     
