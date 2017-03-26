@@ -82,7 +82,8 @@ Scapular dyskinesis는 shoulder movement중 발생한다.
 이러한 weak muscle외에, 견갑골을 rib cage에서 잡아당겨 떼어놓는 tight muscle이 있다. 이러한 역할을 하는 가장 주된 근육은 pectoralis minor이다.   
 Tight한 소흉근은 견갑골을 위로 당겨 결과적을 견갑골의 inferior-medial border winging을 유발한다.     
 
-#### 어깨관절 회전축의 변화 ####
+#### 어깨관절 회전축의 변화 ####  
+
 
 scapular winging으로 인한 견갑골의 위치변화는 어깨관절 회전축의 변화을 유발한다.   결과적으로  early pinching of the humerus against the top of the scapula이 발생한다.     
 견관절 굴곡동작(raising your arms straight up in front of you)에서 이러한  early pinching이 가장 잘 관찰된다.   어깨 통증이 있을 경우 흔히  impingement syndrome이라한다.  
