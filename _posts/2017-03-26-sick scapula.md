@@ -6,7 +6,7 @@ layout: post
 title: sick scapula  
 ---  
 
- ### 어깨 통증에 대한 기능적 접근의 필요성 ###    
+### 어깨 통증에 대한 기능적 접근의 필요성 ###    
 
 통증의학과적 입장에서 어깨통증에 대한 신경블록은 견봉하주사, 견관절내 주사 등으로 국한된다. 그외 FIMS, prolotherapy 혹은 이에 준하는 방법 등이 있다.     
 어깨통증을 유발하는 pathophysiology에 대한 구분없이, 신경블록에 의한 통증완화 효과를 언급하기는 무리이지만, 실제적으로는 이러한 신경블록에 의하여 의미있는  증상개선을 얻기가 쉽지 않음을 흔히 경험하게 된다.    
@@ -73,9 +73,9 @@ Scapular dyskinesis는 shoulder movement중 발생한다.
 어깨통증 유발 기전은, 통증의 anatomic resource 와는 별개로, 다음과 같이 구분해 볼 수 있다.     
 
 #### Rotational axis의 변화 ####
-견관절 내회전 (internal rotation)의 rotational axis의 변화와  이로 인한 external rotation의 증가는 SLAP lesion (Superior Labrum Anterior Posterior) 이 발생할 수 있는 기회가 된다.         
+견관절 내회전 (internal rotation)의 rotational axis의 변화와  이로 인한 external rotation의 증가는 SLAP lesion (Superior Labrum Anterior Posterior) 이 발생할 수 있는 기회가 된다.     
 
-#### Scapular winging ####
+#### Scapular winging ####
 견갑골을 rib cage에 고정시키는 근육의 약화로 인하여 scapular winging이 발생한다. 이 경우 weak muscle 은 middle & lower trapezius,  serratus anterior 이다.    
 이러한 weak muscle외에, 견갑골을 rib cage에서 잡아당겨 떼어놓는 tight muscle이 있다. 이러한 역할을 하는 가장 주된 근육은 pectoralis minor이다.   
 Tight한 소흉근은 견갑골을 위로 당겨 결과적을 견갑골의 inferior-medial border winging을 유발한다.     
