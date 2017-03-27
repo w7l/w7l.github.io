@@ -62,13 +62,16 @@ ESP block의 target points는 T5 spine의 transverse process이다.
 이전에는 rhomboid m. 과 erector spinae m. 사이의 muscle plane을 target point로 하였다.
 
 그러나 국소마취약제이 확산상을 고려할  때 erector spinae m. 을 통과하여 T5 transverse process에 신경블록침 선단을 위치시킴이 타당한 것으로 판단된다[6].
+
 이 경우 약제는 costotransverse foramen을 통하여 ventral & dorsal rami로 확산된다[3].  
 
 ![Fig. 2](/images/ESPTAP/ESP.png)      
 
 
+
 #### Quadratus Lumborum block  
-QLP block은 신경블록침 선단의 위치에 따라 type 1,2,3 로 구분된다.     
+QLP block은 신경블록침 선단의 위치에 따라 type 1,2,3 로 구분된다.   
+  
 더 자세한 내용은 Chin et al reference[5] 참조한다.  
 
 ![Fig. 3](/images/ESPTAP/QL.png)   
