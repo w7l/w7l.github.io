@@ -28,9 +28,9 @@ Alternative technique이 바로 Erector Spinae Plane (ESP) blocks 과 Quadratus 
 ###  ESP block
 Retrolaminar block[1], Thoracolumbar interfascial plane (TLIP) block[2]은 multifidus, longissimus dorsi 및 T spine lamina 사이에서 행하는 muscle plane block이다.   
 
-ESP block[3], intercostal/paraspinal nerve block[4] 모두 동일 plane 내에서 신경블록침 선단의 위치 차이가 있을 뿐 rhomboid m. 과 erector spinae m.(longissimus dorsi, iliocostalis lumborum & thoracis, spinal thoracis로 구성됨) 사이 muscle plane에 신경블록침을 위치시키는 면에서 동일하다.  
+ESP block[3], intercostal/paraspinal nerve block[4] 모두 동일 plane 내에서 신경블록침 선단의 위치 차이가 있을 뿐 rhomboid m. 과 erector spinae m.(longissimus dorsi, iliocostalis lumborum & thoracis, spinalis thoracis로 구성됨) 사이 muscle plane에 신경블록침을 위치시키는 면에서 동일하다.  
 
-결과적으로 retrolaminar block, TLIP block, ESP block, intercostal/paraspinal nerve block 모두 약제 확산범위 및 토증완화 효과에서 유사한 면이 많다.   
+결과적으로 retrolaminar block, TLIP block, ESP block, intercostal/paraspinal nerve block 모두 약제 확산범위 및 통증완화 효과에서 유사한 면이 많다.   
 
 이중 ESP block은 약제확산 범위, 수가적 안정성 면에서 다른 block에 유리한 특징이 있다.
 
@@ -71,7 +71,7 @@ ESP block의 target points는 T5 spine의 transverse process이다.
 
 #### Quadratus Lumborum block  
 QLP block은 신경블록침 선단의 위치에 따라 type 1,2,3 로 구분된다.   
-  
+
 더 자세한 내용은 Chin et al reference[5] 참조한다.  
 
 ![Fig. 3](/images/ESPTAP/QL.png)   
