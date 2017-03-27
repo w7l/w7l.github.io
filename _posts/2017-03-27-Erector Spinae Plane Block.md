@@ -104,7 +104,7 @@ QL block 시 약제 확산범위는 T7~L2 이다[5].
 ### Epilogue  
 EPL, QL block 모두 zoter pain 호소 환자에게 도움이 될 것으로 보인다.  
 
-두 block 모두 sympathetic blockade는 없는 것으로 예측되며 이러한 부분이 paravertebral block 비교되는 중요한 차이로 생각된다. 이러한 차이의 임상적 평가가 궁금하다.
+두 block 모두 sympathetic blockade는 없는 것으로 예측되며 이러한 부분이 paravertebral block과 비교되는 중요한 차이로 생각된다. 이러한 차이의 임상적 평가가 궁금하다.
 
 
 ### References
