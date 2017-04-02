@@ -1,12 +1,7 @@
-
-
-
 ---
 layout: post  
 title: Alternatives for thoracic paravertebral block, especially for zoster pain
 ---  
-
-
 
 글 제목은 대상포진, 대상포진후 신경통에 대한 것이지만 주된 내용은 실제적으로는 초음파 유도하 신경블록에 관한 것으로 다음과 같은 내용을 포함한다.   
 
