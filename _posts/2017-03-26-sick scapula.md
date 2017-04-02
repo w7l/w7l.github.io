@@ -1,6 +1,3 @@
-
-
-
 ---
 layout: post  
 title: S.I.C.K Scapula  
