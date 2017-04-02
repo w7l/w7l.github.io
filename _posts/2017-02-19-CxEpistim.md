@@ -2,16 +2,9 @@
 layout: post
 title: Skin entry point for cervical epidural neuroplasty
 ---  
-
-
-소개
-
 Racz's catheter를 적용한 cervical epidural neuroplasty가 소개될 당시, swimmer's view하에서 upper T spine을 entry point로 하여 target point인 lower cervical spine foramen에 접근하였다.   
 
 그후 CLO (contralateral oblique) view 하에서 접근법,  Racz's catheter의 alternative인 epistim 소개 등에 근거하여 cervical epidural neuroplasty를 비교적 용이하게 시행할 수 있게 되었다.   
-
-
-
 
 
 제안  
