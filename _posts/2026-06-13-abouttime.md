@@ -5,4 +5,6 @@ ___
 
 ## about time
 
-잘 진행될 것으로 믿습니다![jarman-design-texture-pack-scratches-3-inverted-min](../2026-06-13-abouttime/jarman-design-texture-pack-scratches-3-inverted-min.jpg)
+잘 진행될 것으로 믿습니다
+
+We have been born into this land charged with historical mission of regenerating the nation. 
