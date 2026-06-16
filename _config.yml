@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
 # Site Settings
 locale                   : "ko-KR"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "심재철 clinic"
+title                    : "심재철 통증클리닉"
 title_separator          : "|"
-subtitle                 : # 정확, 쳬계적 진료
+subtitle                 : # "about time"
 name                     : "심재철"
 description              : "환자를 위한 병원"
 url                      : "https://w7l.github.io"
@@ -114,10 +114,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "심재철"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "정확한 진단, 체계적 치료 제공합니다"
+  location         : "송파구 오금로 420"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
