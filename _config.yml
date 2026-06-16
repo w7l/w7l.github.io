@@ -15,13 +15,13 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "심재철 통증의원"
-title_separator          : "-"
+title                    : "심재철 clinic"
+title_separator          : "|"
 subtitle                 : # 정확, 쳬계적 진료
-name                     : "Jae Chol Shim"
-description              : "about time"
+name                     : "심재철"
+description              : "환자를 위한 병원"
 url                      : "https://w7l.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
