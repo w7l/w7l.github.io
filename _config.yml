@@ -19,14 +19,14 @@ locale                   : "ko-KR"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
 title                    : "심재철 통증클리닉"
 title_separator          : "|"
-subtitle                 : # "about time"
-name                     : "심재철"
+subtitle                 : "about time"
+name                     : "대학병원 진료 25년"
 description              : "환자를 위한 병원"
 url                      : "https://w7l.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/SclinicLogo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -114,7 +114,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "심재철"
+  name             : "대학병원 진료 25년"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "정확한 진단, 체계적 치료 제공합니다"
   location         : "송파구 오금로 420"
