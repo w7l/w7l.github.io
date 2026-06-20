@@ -1,5 +1,7 @@
 ---
-
+Layout: single
+Title: plantar fascitis
+categories: coding
 ---
 
 발바닥 근막염 치료수단으로는 여러가지 소개되고 있다.
