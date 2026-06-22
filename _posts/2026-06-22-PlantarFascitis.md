@@ -1,6 +1,6 @@
 ---
 layout: single
-title: about time
+title: "plantar fascitis"
 categories: technique
 tags: [sole_pain, foot, plantarfascitis]
 toc: true
@@ -9,6 +9,8 @@ author_profile: false
 sidebar:
     nav: "docs"
 ---
+
+# plantar fascitis로 제목 변경
 
 족저근막염의 치료에 집중하는 글 입니다. 
 즉 치료는 어떠한 방식으로 행하는 것이 가장 효과적 인가?
