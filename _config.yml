@@ -26,7 +26,7 @@ url                      : "https://w7l.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/선인장bold_LOGO_github.png"
+logo                     : # "/assets/images/선인장bold_LOGO_github.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "대학병원 진료 25년"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/선인장bold_LOGO_github.png"
   bio              : "정확한 진단, 체계적 치료 제공합니다"
   location         : "송파구 오금로 420"
   email            :
