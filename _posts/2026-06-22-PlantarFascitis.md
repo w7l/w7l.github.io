@@ -6,9 +6,12 @@ tags: [sole_pain, foot, plantarfascitis]
 toc: true
 toc_sticky: true
 author_profile: false
+Typora-root-url: ../
 sidebar:
     nav: "docs"
 ---
+
+
 
 ## 글 소개
 
@@ -55,9 +58,9 @@ sidebar:
 
 ### 주사는 어떠한 방법으로 할 것인가?
 
-족저근막염 주사 시행시 신경블록침을 medial_process에 위치시킴이 우선적으로 중요한 일 입니다. 
+족저근막염 주사 시행시 신경블록침을 [medial process](https://www.researchgate.net/figure/Normal-anatomy-of-the-calcaneus-and-calcaneal-tuberosity_fig2_396513682)에 위치시킴이 우선적으로 중요한 일 입니다. 
 
-영상 유도하에서는 medial_process에 신경블록침 국재화가 매우 용이합니다.
+영상 유도하에서는 medial process에 신경블록침 국재화가 매우 용이합니다.
 
 국재화된 신경블록침을 미세조정하거나, 주입된 약제의 확산상 관찰에서는 초음파 유도하 시행이 매우 유리합니다
 
@@ -103,7 +106,7 @@ sidebar:
 실제로, 족저근막 주사 역시 **영상 유도**와 **초음파 유도**를 복합하여 행할 경우 족저근막 주위에 정확하게 약제를 주입할 수 있습니다. 
 
 ```
-즉 영상장치(C-arm fluoroscope)로 medial_process에 
+즉 영상장치(C-arm fluoroscope)로 medial process에 
 신경블록침을 삽입한 후,
  
 신경블록침의 위치를 미세조정하고,
@@ -120,19 +123,33 @@ sidebar:
 
 ## 족저근막염 치료 증례
 
-{: .notice--danger}
-ㄴrhglehsrgv
+족저근막염은 **발뒤꿈치뼈에서 발가락 기저 부위까지 이어지는 두껍고 강한 섬유띠인 족저근막에 반복적인 미세 손상이 가해져 염증과 통증이 발생하는 질환**입니다. 
+
+초음파 영상_ 그림 1:  발바닥 초음파 영상 (횡단면) 에서, 왼쪽 영상(환측)의  족저근막은 오른쪽 영상(건측)에 비해 두꺼워져 있습니다.  
+
+<img src="/images/2026-06-22-PlantarFascitis/조성은_longi.png" alt="조성은_longi" style="zoom:25%;" />
 
 
 
-족저근막염의 치료에 집중하는 글 입니다. 
-즉 치료는 어떠한 방식으로 행하는 것이 가장 효과적 인가?
-수기적으로는 어떠한 접근법에 의하여 족저근막 부위에 치료약을 직접적으로 전달할 수 있는가? 에 대한 내용입니다. 
+초음파 영상_그림 2 : 초음파 영상 (시상면) 에서도,  왼쪽 환측 영상에서 족저근막이 두꺼워져 있음이 확인됩니다. 
 
-{: .notice--info}
-hybrid technique
+<img src="/images/2026-06-22-PlantarFascitis/조성은_transverse_편집.jpg" alt="조성은_transverse_편집" style="zoom: 25%;" />
 
-# 
+
+
+그림 3 : 신경블록침이 족저근막 두측에 정확히 위치함을 확인됩니다. 
+
+<img src="/images/2026-06-22-PlantarFascitis/조성은_바늘_편집.jpg" alt="조성은_바늘_편집" style="zoom:25%;" />
+
+
+
+타병원 진료 후 증상개선 현저하지 않아 내원한 환자 입니다. 위의 그림과 같은 치료 후 증상 현저 개선되었습니다. 
+
+
+
+<img src="/images/2026-06-22-PlantarFascitis/명함.png" alt="명함" style="zoom:67%;" />
+
+
 
 
 
