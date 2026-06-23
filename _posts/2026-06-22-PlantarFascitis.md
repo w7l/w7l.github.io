@@ -127,27 +127,33 @@ sidebar:
 
 초음파 영상_ 그림 1:  발바닥 초음파 영상 (횡단면) 에서, 왼쪽 영상(환측)의  족저근막은 오른쪽 영상(건측)에 비해 두꺼워져 있습니다.  
 
-<img src="/assets/images/2026-06-22-PlantarFascitis/조성은_longi.png" alt="조성은_longi" style="zoom: 25%;" />
+<img src="/images/2026-06-22-PlantarFascitis/fig1.png" alt="fig1" style="zoom:25%;" />
+
+
 
 
 
 초음파 영상_그림 2 : 초음파 영상 (시상면) 에서도,  왼쪽 환측 영상에서 족저근막이 두꺼워져 있음이 확인됩니다. 
 
+<img src="/images/2026-06-22-PlantarFascitis/fig2.jpg" alt="fig2" style="zoom:25%;" />
 
 
-<img src="/assets/images/2026-06-22-PlantarFascitis/조성은_transverse_편집.jpg" alt="조성은_transverse_편집" style="zoom:25%;" />
+
+
+
+
 
 그림 3 : 신경블록침이 족저근막 두측에 정확히 위치함을 확인됩니다. 
 
-<img src="/assets/images/2026-06-22-PlantarFascitis/조성은_바늘_편집.jpg" alt="조성은_바늘_편집" style="zoom: 25%;" />
+<img src="/images/2026-06-22-PlantarFascitis/fig3.jpg" alt="fig3" style="zoom:25%;" />
 
 
 
 타병원 진료 후 증상개선 현저하지 않아 내원한 환자 입니다. 위의 그림과 같은 치료 후 증상 현저 개선되었습니다. 
 
-<img src="/assets/images/2026-06-22-PlantarFascitis/명함.png" alt="명함" style="zoom: 33%;" />
 
 
+<img src="/images/2026-06-22-PlantarFascitis/namecard.png" alt="namecard" style="zoom: 33%;" />
 
 
 
