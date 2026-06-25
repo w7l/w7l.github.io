@@ -11,7 +11,14 @@ sidebar:
     nav: "docs"
 ---
 
-## 글 소개
+&nbsp;
+
+
+
+#  글 소개
+
+
+
 <div class="notice--success">
 <h4>이 글의 내용</h4>
 <ul>
@@ -22,12 +29,18 @@ sidebar:
 </div>
 
 
+&nbsp;
 
 
 
-## 족저근막염*(plantar fascitis)* 치료방법
 
-### 족저근막염 유병기간에 기준한 치료 방법의 선택
+# 족저근막염*(plantar fascitis)* 치료방법
+
+## 족저근막염 유병기간에 기준한 치료 방법의 선택
+
+&nbsp;
+
+
 
 족저근막염 치료기 우선적으로  **체외충격파**를 행하고 있습니다. 
 
@@ -49,9 +62,15 @@ sidebar:
 
 
 
+&nbsp;
 
 
-### 주사는 어떠한 방법으로 할 것인가?
+
+## 주사는 어떠한 방법으로 할 것인가?
+
+&nbsp;
+
+
 
 족저근막염 주사 시행시 신경블록침을 [medial process](https://www.researchgate.net/figure/Normal-anatomy-of-the-calcaneus-and-calcaneal-tuberosity_fig2_396513682)에 위치시킴이 우선적으로 중요한 일 입니다. 
 
@@ -59,7 +78,7 @@ sidebar:
 
 국재화된 신경블록침을 미세조정하거나, 주입된 약제의 확산상 관찰에서는 초음파 유도하 시행이 매우 유리합니다
 
-2가지 방법의 장단점을 아래 표와 같습니다. 
+2가지 방법의 장단점은 아래 표와 같습니다. 
 
 <table style="width: 100%; table-layout: fixed;">
   <colgroup>
@@ -87,10 +106,15 @@ sidebar:
 </table>
 
 
+&nbsp;
 
 
 
-### Hybrid technique
+## Hybrid technique
+
+&nbsp;
+
+
 
 하이브리드(Hybrid)는 '잡종'이나 '혼성물'을 뜻하는 영어 단어로, 
 
@@ -110,21 +134,31 @@ sidebar:
 주사를 시행하는 과정을 추천합니다.  
 ```
 
+&nbsp;
 
 
 
 
 
+&nbsp;
 
-## 족저근막염 치료 증례
 
-족저근막염은 **발뒤꿈치뼈에서 발가락 기저 부위까지 이어지는 두껍고 강한 섬유띠인 족저근막에 반복적인 미세 손상이 가해져 염증과 통증이 발생하는 질환**입니다. 
+
+# 족저근막염 치료 증례
+
+족저근막염은 발뒤꿈치뼈에서 발가락 기저 부위까지 이어지는 두껍고 강한 섬유띠인 **족저근막**에 반복적인 미세 손상이 가해져 **염증**과 **통증**이 발생하는 질환입니다. 
+
+&nbsp;
+
+
 
 초음파 영상_ 그림 1:  발바닥 초음파 영상 (횡단면) 에서, 왼쪽 영상(환측)의  족저근막은 오른쪽 영상(건측)에 비해 두꺼워져 있습니다.  
 
 <img src="/images/2026-06-22-PlantarFascitis/fig1.png" alt="fig1" style="zoom:25%;" />
 
 
+
+&nbsp;
 
 
 
@@ -134,6 +168,8 @@ sidebar:
 
 
 
+&nbsp;
+
 
 
 
@@ -142,9 +178,15 @@ sidebar:
 
 <img src="/images/2026-06-22-PlantarFascitis/fig3.jpg" alt="fig3" style="zoom:25%;" />
 
+&nbsp;
+
 
 
 타병원 진료 후 증상개선 현저하지 않아 내원한 환자 입니다. 위의 그림과 같은 치료 후 증상 현저 개선되었습니다. 
+
+&nbsp;
+
+&nbsp;
 
 
 

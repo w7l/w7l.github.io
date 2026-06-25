@@ -21,10 +21,13 @@ sidebar:
     <li>신경블록침은 체내 일정 목표에 정확하게 도달해야 하므로 궤적 변경이 필요합니다.</li>
 </ul>
 </div>
+&nbsp;
 
 
 
 <img src="/images/2026-06-20-NeedleTrajectory/cover.jpg" alt="cover" style="zoom:25%;" />
+
+&nbsp;
 
 
 
@@ -36,6 +39,8 @@ sidebar:
 
 {% include video id="Son Heung-min free kick Australia" provider="youtube" %}
 
+&nbsp;
+
 
 
 # 손흥민 킥 처럼, 신경블록침으로 3차원 궤적을 만든다고?
@@ -44,13 +49,17 @@ sidebar:
 
 신경블록침은 직선으로 똑바로 전진되는 것이 일반적 입니다. 
 
-그너나 중간에 신경블록침의 진행 방향을 조절해야할 여러 변수들이 발생합니다. 
+그러나 중간에 신경블록침의 진행 방향을 조절해야할 여러 변수들이 발생합니다. 
 
 이러한 변수들의 영향을 받지 않고 목표점에 정확히 도달하기 위해서는 신경블록침 진행 궤적의 변경/조절이 필요합니다.
 
-이러한 것은 신경블록침의 경로 (needle trajectory) 라고 합니다. 
+이러한 것을 신경블록침의 경로 (needle trajectory) 라고 합니다. 
 
- ![freekick](/images/2026-06-20-NeedleTrajectory/freekick-2260549.jpg)
+ &nbsp;
+
+![freekick](/images/2026-06-20-NeedleTrajectory/freekick-2260549.jpg)
+
+&nbsp;
 
 
 
@@ -73,6 +82,12 @@ sidebar:
 
 위의 두 그림에서는 신경블록침의 궤적 변화가 없이 신경블록침이 직선 궤적(파란 화살표)을 형성하고 있습니다. 
 
+&nbsp;
+
+
+
+
+
 ## 3차원 공간상의 궤적
 
 <img src="/images/2026-06-20-NeedleTrajectory/Lat2.png" alt="Lat2" style="zoom:25%;" />
@@ -83,11 +98,29 @@ sidebar:
 
 원래 직선방향 (빨강 점선)을 따라 진행예정이던 신경블록침이 위 방향(빨강 화살표)으로 점차 떠오르고 있습니다. 
 
+&nbsp;
+
+
+
 # 경로/궤적 변경에 관하여
 
 ## 궤적 변경이 필요한 이유
 
 신경블록 시행시 발생하는 변수를 제어하며 목표점에 도달하기 위해서는 경로/궤적 변경이 필요합니다.
+
+**궤적 변경에 능숙한 시술**을  받을 경우 신경블록침이 **간결하게 목표점에** 도달합니다.
+
+시술을 **간결**하게 받으면  시술후 **통증이 적습니다**. 
+
+&nbsp;
+
+## 고수의 아름다움은 **'간결함'** 에 있습니다
+
+<img src="/images/2026-06-20-NeedleTrajectory/masterpiece.png" alt="masterpiece" style="zoom:25%;" />
+
+&nbsp;
+
+
 
 <div class="notice--danger">
 <h4>신경블록에서 중요한 것은 ?</h4>
@@ -112,7 +145,7 @@ sidebar:
 
 이렇게 함으로써  신경블록침의 궤적을 제어합니다. 
 
-
+&nbsp;
 
 # In Memorium
 
@@ -120,21 +153,33 @@ sidebar:
 
 <img src="/images/2026-06-20-NeedleTrajectory/memorium.jpg" alt="memorium" style="zoom:25%;" />
 
-# 맺음 말
+&nbsp;
+
+
+
+# 맺음말
 
 신경블록은 안전하고 정확해야 합니다. 
 
-안 아프려고 신경블록 주사 받았는데, 신경블록후 주사 자리 아픈 일을 없어야 합니다. 
+아프지 않으려고  신경블록 주사 받았는데, 신경블록후 주사 자리 아픈 일은 없어야 합니다. 
 
 <img src="/images/2026-06-20-NeedleTrajectory/injectionpain.jpg" alt="injectionpain" style="zoom:25%;" />
 
-신경블록침은 가볍고 경쾌하게 움직여야 한다고 생각합니다. 
+&nbsp;
 
-허공을 가르는 종이 비행기 처럼~
+
+
+신경블록침은 가볍고 경쾌하게 움직여야 합니다. 
+
+저 하늘의 종이 비행기 처럼~
 
 
 
  <img src="/images/2026-06-20-NeedleTrajectory/paperfly.jpg" alt="paperfly" style="zoom:25%;" />  
+
+&nbsp;
+
+&nbsp;
 
 
 
