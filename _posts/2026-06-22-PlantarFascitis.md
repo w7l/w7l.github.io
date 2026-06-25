@@ -72,7 +72,7 @@ sidebar:
 
 
 
-족저근막염 주사 시행시 신경블록침을 [medial process](https://www.researchgate.net/figure/Normal-anatomy-of-the-calcaneus-and-calcaneal-tuberosity_fig2_396513682)에 위치시킴이 우선적으로 중요한 일 입니다. 
+족저근막염 주사 시행 시 신경블록침을 [medial process](https://www.researchgate.net/figure/Normal-anatomy-of-the-calcaneus-and-calcaneal-tuberosity_fig2_396513682)에 위치시킴이 우선적으로 중요한 일 입니다. 
 
 영상 유도하에서는 medial process에 신경블록침 국재화가 매우 용이합니다.
 

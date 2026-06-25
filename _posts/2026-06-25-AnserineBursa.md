@@ -24,17 +24,15 @@ sidebar:
 
 # 거위발 활액낭염 증상
 
-- [ㅇ호ㅓㅅㅎ]: https://www.physiocheck.co.uk/img/conditions/149/knee-pes-anserine-syndrome-pain-location.jpg
+통증부위는 특징적으로 [무릎 안쪽](https://www.physiocheck.co.uk/img/conditions/149/knee-pes-anserine-syndrome-pain-location.jpg 에 위치합니다. 
 
-  ㅈㄷ4ㅅㄱㅈㄷ
+ㄹㄴㅅ혼ㄹㅎㄴㄹㅎㄴㅇㅇㄹㅎㅇㄹ
 
-- ㅇㅎ로ㅓㅇㅅㅎㄹ
+ㅇㄹ호ㅓㅇㄴㄹ호ㅓㅇㄹ허
 
-- ㄹ홇
 
-- ㄹ호ㅓㅜㄹㅎ
 
-  
 
-  
+
+
 
