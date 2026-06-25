@@ -182,13 +182,29 @@ sidebar:
 
 
 
-타병원 진료 후 증상개선 현저하지 않아 내원한 환자 입니다. 위의 그림과 같은 치료 후 증상 현저 개선되었습니다. 
+타병원 진료 후 증상개선 현저하지 않아 내원한 환자 입니다. 
+
+위의 그림과 같은 치료 후 증상 현저 개선되었습니다. 
 
 &nbsp;
 
 &nbsp;
 
+## 고수의 아름다움은 '간결함'에 있습니다
 
+<img src="/images/2026-06-22-PlantarFascitis/Master_Samurai-2394935.png" alt="Master_Samurai" style="zoom:33%;" />
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+
+
+
+# 간결, 정확, 안전한 치료에 진심입니다
 
 <img src="/images/2026-06-22-PlantarFascitis/namecard.png" alt="namecard" style="zoom: 33%;" />
 
