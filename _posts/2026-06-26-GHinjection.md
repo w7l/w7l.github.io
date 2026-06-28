@@ -153,4 +153,4 @@ GHJ 뿐만이 아니고 회전근개 부위로 약제가 확산되는 현상은 
 
 # 간결, 정확, 안전한 치료에 진심입니다
 
-# <img src="/images/2026-06-26-GHinjection/명함.png" alt="명함" style="zoom:33%;" />
+# <img src="/images/2026-06-26-GHinjection/명함-2653265.png" alt="명함" style="zoom:33%;" />
