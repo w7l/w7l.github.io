@@ -11,6 +11,10 @@ sidebar:
     nav: "docs"
 ---
 
+&nbsp;
+
+
+
 # 글 소개
 
 <div class="notice--danger">
@@ -37,23 +41,23 @@ sidebar:
 
 발끝을 떠난 축구공은 골대 앞 공간에서 궤적을 변경하며 골 문으로 들어갑니다.
 
-{% include video id="Son Heung-min free kick Australia" provider="youtube" %}
+{% include video id="92hx7lX4H9I" provider="youtube" %}
 
 &nbsp;
 
 
 
-# 손흥민 킥 처럼, 신경블록침으로 3차원 궤적을 만든다고?
+## 손흥민 킥 처럼, 신경블록침으로 3차원 궤적을 만든다고?
 
 체내에 삽인된 신경블록침은 목표점에 정확하게 도달되도록 조절됩니다. 
 
 신경블록침은 직선으로 똑바로 전진되는 것이 일반적 입니다. 
 
-그러나 중간에 신경블록침의 진행 방향을 조절해야할 여러 변수들이 발생합니다. 
+그러나 중간에 신경블록침의 진행 방향을 **조절**해야할 여러 변수들이 발생합니다. 
 
-이러한 변수들의 영향을 받지 않고 목표점에 정확히 도달하기 위해서는 신경블록침 진행 궤적의 변경/조절이 필요합니다.
+이러한 변수들의 영향을 받지 않고 목표점에 정확히 도달하기 위해서는 신경블록침 **진행 궤적의 변경/조절**이 필요합니다.
 
-이러한 것을 신경블록침의 경로 (needle trajectory) 라고 합니다. 
+이러한 것을 신경블록침의 **경로 (needle trajectory)** 라고 합니다. 
 
  &nbsp;
 
@@ -104,6 +108,42 @@ sidebar:
 
 # 경로/궤적 변경에 관하여
 
+
+
+<div class="notice--danger">
+<h4>신경블록에서 중요한 것은 ?</h4>
+<ul>
+    <li>신경블록은 안전하게 받아야 합니다.</li>
+    <li>신경블록은 정확해야 합니다.</li>
+    <li>신경블록을 안전, 정확하게 받기 위해서는 경로/궤적 변경이 필요합니다.</li>
+</ul>
+</div>
+&nbsp;
+
+
+
+## 궤적 변경이 가능한 이유는?
+
+신경블록침은 일반 바늘과 여러가지 면에서 다른 특성이 있습니다. 
+
+그 중에서 가장 다른 점은 신경블록침의 **탄성** 입니다. 
+
+&nbsp;
+
+
+
+<img src="/images/2026-06-20-NeedleTrajectory/redirect.jpg" alt="redirect" style="zoom:25%;" />
+
+위의 그림에서 처럼 신경블록침 **중간을 누르는 힘의 크기**로 신경블록침의 궤적을 변화시킵니다. 
+
+힘이 크면 클수록 신경블록침의 선단은 움직임이 크게 변합니다.
+
+이렇게 함으로써  신경블록침의 궤적을 제어합니다. 
+
+&nbsp;
+
+
+
 ## 궤적 변경이 필요한 이유
 
 신경블록 시행시 발생하는 변수를 제어하며 목표점에 도달하기 위해서는 경로/궤적 변경이 필요합니다.
@@ -116,40 +156,17 @@ sidebar:
 
 ## 고수의 아름다움은 **'간결함'** 에 있습니다
 
-<img src="/images/2026-06-20-NeedleTrajectory/masterpiece.png" alt="masterpiece" style="zoom:25%;" />
+<img src="/images/2026-06-20-NeedleTrajectory/masterpiece.png" alt="masterpiece" style="zoom: 33%;" />
+
+&nbsp;
 
 &nbsp;
 
 
-
-<div class="notice--danger">
-<h4>신경블록에서 중요한 것은 ?</h4>
-<ul>
-    <li>신경블록은 안전하게 받아야 합니다.</li>
-    <li>신경블록은 정확해야 합니다.</li>
-    <li>신경블록을 안전, 정확하게 받기 위해서는 경로/궤적 변경이 필요합니다.</li>
-</ul>
-</div>
-
-## 궤적 변경이 가능한 이유는?
-
-신경블록침은 일반 바늘과 여러가지 면에서 다른 특성이 있습니다. 
-
-그 중에서 가장 다른 점은 신경블록침의 탄성 입니다. 
-
-<img src="/images/2026-06-20-NeedleTrajectory/redirect.jpg" alt="redirect" style="zoom:25%;" />
-
-위의 그림에서 처럼 신경블록침 중간을 누르는 힘의 크기로 신경블록침의 궤적을 변화시킵니다. 
-
-힘이 크면 클수록 신경블록침의 선단은 움직임이 크게 변합니다.
-
-이렇게 함으로써  신경블록침의 궤적을 제어합니다. 
-
-&nbsp;
 
 # In Memorium
 
-이런 것은 모두 M.Sluijter  교수님께서 알려주신 내용입니다. 
+이 모든 것은  **M. Sluijter**  교수님께서 알려주신 내용입니다. 
 
 <img src="/images/2026-06-20-NeedleTrajectory/memorium.jpg" alt="memorium" style="zoom:25%;" />
 
@@ -157,29 +174,17 @@ sidebar:
 
 
 
-# 맺음말
-
-신경블록은 안전하고 정확해야 합니다. 
-
-아프지 않으려고  신경블록 주사 받았는데, 신경블록후 주사 자리 아픈 일은 없어야 합니다. 
-
-<img src="/images/2026-06-20-NeedleTrajectory/injectionpain.jpg" alt="injectionpain" style="zoom:25%;" />
-
 &nbsp;
 
 
 
-신경블록침은 가볍고 경쾌하게 움직여야 합니다. 
-
-저 하늘의 종이 비행기 처럼~
 
 
+   &nbsp;
 
- <img src="/images/2026-06-20-NeedleTrajectory/paperfly.jpg" alt="paperfly" style="zoom:25%;" />  
 
-&nbsp;
 
-&nbsp;
+# 간결, 정확, 안전한 치료에 진심입니다
 
 
 
