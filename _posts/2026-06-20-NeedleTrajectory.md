@@ -80,9 +80,9 @@ sidebar:
 
 ## 2차원 공간상의 궤적 
 
-<img src="/images/2026-06-20-NeedleTrajectory/Lat1.png" alt="Lat1" style="zoom:25%;" />
 
-<img src="/images/2026-06-20-NeedleTrajectory/Lat1_1.png" alt="Lat1_1" style="zoom:25%;" />
+
+<img src="/images/2026-06-20-NeedleTrajectory/Lat1_2.png" alt="Lat1_2" style="zoom:33%;" />
 
 위의 두 그림에서는 신경블록침의 궤적 변화가 없이 신경블록침이 직선 궤적(파란 화살표)을 형성하고 있습니다. 
 
@@ -94,9 +94,9 @@ sidebar:
 
 ## 3차원 공간상의 궤적
 
-<img src="/images/2026-06-20-NeedleTrajectory/Lat2.png" alt="Lat2" style="zoom:25%;" />
 
-<img src="/images/2026-06-20-NeedleTrajectory/Lat2_1.png" alt="Lat2_1" style="zoom:25%;" />
+
+<img src="/images/2026-06-20-NeedleTrajectory/Lat2_2.png" alt="Lat2_2" style="zoom:33%;" />
 
 위의 두 그림에서는 신경블록침의 3차원적 궤적 변화(빨강 화살표)을 형성하고 있습니다.  
 
