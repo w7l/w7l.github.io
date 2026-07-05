@@ -188,5 +188,5 @@ sidebar:
 
 
 
-![namecard](/images/2026-06-20-NeedleTrajectory/namecard.png)
+<img src="/images/2026-06-20-NeedleTrajectory/namecard.png" alt="namecard" style="zoom:50%;" />
 
